@@ -1,0 +1,22 @@
+{
+  "name": "express-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keremavci/express-example.git"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/keremavci/express-example/issues"
+  },
+  "homepage": "https://github.com/keremavci/express-example#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
